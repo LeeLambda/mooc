@@ -1,4 +1,4 @@
 mooc
 ====
 
-Mooc in Shenzhen University
+Mooc in Shenzhen University.
